@@ -1,5 +1,5 @@
 # your domain
-domain:mhampson.herokuapp.com
+domain:mhampson.heroku.com
 port:88                # default 12580
 
 # source list file
